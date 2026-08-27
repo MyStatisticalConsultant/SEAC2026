@@ -1,0 +1,122 @@
+SEAC 2026 WORKSHOP MATERIALS — DUAL LICENCE
+
+Copyright © 2026 Zlatko J. Kovačić
+
+This repository contains both software source code and non-code educational
+materials. They are licensed separately as described below.
+
+======================================================================
+1. R SOURCE CODE — MIT LICENSE
+======================================================================
+
+Unless a source file states otherwise, all R source code in this repository
+(files with the .R extension) is licensed under the MIT License.
+
+MIT License
+
+Copyright (c) 2026 Zlatko J. Kovačić
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+======================================================================
+2. NON-CODE WORKSHOP MATERIALS — CC BY 4.0
+======================================================================
+
+Unless a file states otherwise, the original non-code workshop materials in
+this repository are licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0).
+
+This includes, where applicable:
+
+- workshop guides and exercise sheets;
+- synthetic teaching datasets;
+- methodological reference sheets;
+- workshop presentation materials;
+- original workshop figures and diagrams;
+- original workshop posters;
+- reporting templates and other teaching documents.
+
+Licence name:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Licence information:
+https://creativecommons.org/licenses/by/4.0/
+
+Legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Under CC BY 4.0, you may share and adapt the covered material for any purpose,
+including commercial purposes, provided that you give appropriate credit,
+provide a link to the licence, and indicate if changes were made. You may not
+apply legal terms or technological measures that legally restrict others from
+doing anything the licence permits.
+
+Suggested attribution:
+
+"SEAC 2026 Workshop: Circular Statistics in Archaeoastronomy and
+Ethnoastronomy Using R, Zlatko J. Kovačić (2026), licensed under
+CC BY 4.0."
+
+When practical, attribution should also identify the specific item used and
+state whether it was modified.
+
+
+======================================================================
+3. SEPARATELY LICENSED MATERIAL
+======================================================================
+
+A repository-level licence does not replace a copyright or licence notice
+contained inside an individual file.
+
+In particular:
+
+04_REFERENCE/BOOK/Tadic&Kovacic~Orientation.pdf
+
+is a separately published work by Milutin Tadić and Zlatko J. Kovačić and
+retains the copyright and licence notice printed inside that PDF. It is not
+relicensed under the repository-level CC BY 4.0 licence by this LICENSE file.
+
+Any other item that contains its own explicit copyright or licence statement
+is governed by that statement for that item.
+
+
+======================================================================
+4. THIRD-PARTY MATERIAL
+======================================================================
+
+Third-party works, quotations, cited material, trademarks, software packages,
+fonts and other material not owned by the repository copyright holder remain
+subject to their respective rights, licences and terms.
+
+Nothing in this file grants rights that the repository copyright holder does
+not have authority to grant.
+
+
+======================================================================
+5. NO WARRANTY
+======================================================================
+
+The workshop materials are provided for educational and research purposes.
+They are supplied without warranty as to fitness for a particular research,
+teaching, legal, professional or other purpose.
+
+Users remain responsible for checking statistical assumptions, documenting
+methodological choices, validating results and respecting the licences of
+third-party and separately published material.
