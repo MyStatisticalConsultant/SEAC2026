@@ -1,0 +1,46 @@
+monument_id,declination_deg,uncertainty_deg,monument_type,setting,context_note
+MG01,20.8,0.8,stone circle,open horizon,relatively open horizon
+MG02,21.2,0.7,stone row,gentle slope,synthetic teaching context
+MG03,21.5,0.9,standing stone,ridge,local horizon/topography may contribute additional uncertainty
+MG04,21.8,0.6,cairn,valley edge,local horizon/topography may contribute additional uncertainty
+MG05,22.0,0.8,stone circle,plateau,synthetic teaching context
+MG06,22.2,0.7,stone row,open horizon,relatively open horizon
+MG07,22.4,0.9,standing stone,gentle slope,synthetic teaching context
+MG08,22.6,0.6,cairn,ridge,local horizon/topography may contribute additional uncertainty
+MG09,22.8,0.8,stone circle,valley edge,local horizon/topography may contribute additional uncertainty
+MG10,23.0,0.7,stone row,plateau,synthetic teaching context
+MG11,23.1,0.6,standing stone,open horizon,relatively open horizon
+MG12,23.2,0.8,cairn,gentle slope,synthetic teaching context
+MG13,23.3,0.7,stone circle,ridge,local horizon/topography may contribute additional uncertainty
+MG14,23.4,0.6,stone row,valley edge,local horizon/topography may contribute additional uncertainty
+MG15,23.5,0.8,standing stone,plateau,synthetic teaching context
+MG16,23.6,0.7,cairn,open horizon,relatively open horizon
+MG17,23.8,0.9,stone circle,gentle slope,synthetic teaching context
+MG18,24.0,0.6,stone row,ridge,local horizon/topography may contribute additional uncertainty
+MG19,24.2,0.8,standing stone,valley edge,local horizon/topography may contribute additional uncertainty
+MG20,24.4,0.7,cairn,plateau,synthetic teaching context
+MG21,24.6,0.9,stone circle,open horizon,relatively open horizon
+MG22,24.9,0.8,stone row,gentle slope,synthetic teaching context
+MG23,25.2,1.0,standing stone,ridge,local horizon/topography may contribute additional uncertainty
+MG24,25.5,0.9,cairn,valley edge,local horizon/topography may contribute additional uncertainty
+MG25,25.9,1.1,stone circle,plateau,synthetic teaching context
+MG26,14.8,1.2,stone row,open horizon,relatively open horizon
+MG27,15.2,1.1,standing stone,gentle slope,synthetic teaching context
+MG28,15.7,1.4,cairn,ridge,local horizon/topography may contribute additional uncertainty
+MG29,16.1,1.0,stone circle,valley edge,local horizon/topography may contribute additional uncertainty
+MG30,16.5,1.5,stone row,plateau,synthetic teaching context
+MG31,17.0,1.3,standing stone,open horizon,relatively open horizon
+MG32,17.5,1.6,cairn,gentle slope,synthetic teaching context
+MG33,-27.0,1.7,stone circle,ridge,local horizon/topography may contribute additional uncertainty
+MG34,-21.0,1.5,stone row,valley edge,local horizon/topography may contribute additional uncertainty
+MG35,-15.0,1.8,standing stone,plateau,synthetic teaching context
+MG36,-9.0,1.3,cairn,open horizon,relatively open horizon
+MG37,-4.0,1.6,stone circle,gentle slope,synthetic teaching context
+MG38,0.5,1.4,stone row,ridge,local horizon/topography may contribute additional uncertainty
+MG39,3.0,1.2,standing stone,valley edge,local horizon/topography may contribute additional uncertainty
+MG40,14.5,1.5,cairn,plateau,synthetic teaching context
+MG41,18.2,1.3,stone circle,open horizon,relatively open horizon
+MG42,29.0,1.7,stone row,gentle slope,synthetic teaching context
+MG43,31.5,1.9,standing stone,ridge,local horizon/topography may contribute additional uncertainty
+MG44,35.0,2.0,cairn,valley edge,local horizon/topography may contribute additional uncertainty
+MG45,40.0,1.8,stone circle,plateau,synthetic teaching context
